@@ -1,4 +1,5 @@
 //Owner: Isaac Dabney
+import java.util.Arrays;
 import java.util.Scanner;
 public class p7IsaacDabney 
 {
